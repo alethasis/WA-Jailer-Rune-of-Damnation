@@ -1,0 +1,4 @@
+{
+  assignmentText = "string",
+  count = "number"
+}
